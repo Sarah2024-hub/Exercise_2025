@@ -25,5 +25,3 @@ with open('access _log', 'r') as f:
       visit_ip.append(ip)
 
 print('고유 방문자 수: [%d]' %len(visit_ip))
-
-186. Web Server Log Processing ③ Calculating Total Service Capacity_187 Web Server Log Processing ④ Calculating Service Capacity by User
